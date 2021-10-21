@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831220461842",
+    "project_id": "app-vuelos-1446c",
+    "storage_bucket": "app-vuelos-1446c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831220461842:android:494ed96d452a59b653c3cb",
+        "android_client_info": {
+          "package_name": "com.example.app_vuelos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831220461842-gqu4nob9t0jvn22v34670667dec9d6ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt57L3T_rDOchYpuE9B0EVsONRqrS4k9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831220461842-gqu4nob9t0jvn22v34670667dec9d6ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
